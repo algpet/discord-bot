@@ -151,10 +151,10 @@ class WallCalculator:
 
     def help(self):
         return '''```
- Hi
- Here should be proper help message
- But no one cares.. yet
- So you should guess how this feature works
+ [HELP]
+-------------------------------------------
+To use the bot, use the following syntax:
+!walls [coin] [number of orders] [exchange]
         ```'''
 
 class WallEntry:
